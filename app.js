@@ -1,1 +1,1 @@
-alert ("Adios Lic") 
+alert ("Adios Licenciados") 
